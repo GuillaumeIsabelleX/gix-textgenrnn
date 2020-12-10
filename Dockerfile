@@ -1,4 +1,4 @@
-FROM guillaumeai/tf:cpu
+FROM guillaumeai/tf
 
 WORKDIR /work
 COPY gixrequirements.txt .
